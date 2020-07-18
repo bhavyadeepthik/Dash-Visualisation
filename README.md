@@ -274,9 +274,3 @@ if __name__ == '__main__':
 
     app.run_server(port=4051)
 
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
